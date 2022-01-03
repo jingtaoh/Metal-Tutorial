@@ -2,7 +2,8 @@
 
 Repository to accompany the following blog posts:
 
-- [Introducing the Metal framework](http://metalkit.org/2016/01/04/introducing-the-metal-framework.html)
+- [x] [Introducing the Metal framework](http://metalkit.org/2016/01/04/introducing-the-metal-framework.html)
+ ![Intro](ch01/intro.png)
 - [Using MetalKit part 1](http://metalkit.org/2016/01/11/using-metalkit-part-1.html)
 - [Using MetalKit part 2](http://metalkit.org/2016/01/18/using-metalkit-part-2.html)
 - [Using MetalKit part 3](http://metalkit.org/2016/01/25/using-metalkit-part-3.html)
